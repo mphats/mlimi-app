@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="60" cy="60" r="60" fill="#2E7D32"/>
+  
+  <!-- Agricultural icon -->
+  <g transform="translate(30, 30)">
+    <!-- Plant stem -->
+    <rect x="28" y="40" width="4" height="25" fill="white"/>
+    
+    <!-- Leaves -->
+    <ellipse cx="20" cy="35" rx="8" ry="4" fill="white" transform="rotate(-30 20 35)"/>
+    <ellipse cx="40" cy="35" rx="8" ry="4" fill="white" transform="rotate(30 40 35)"/>
+    <ellipse cx="15" cy="45" rx="6" ry="3" fill="white" transform="rotate(-45 15 45)"/>
+    <ellipse cx="45" cy="45" rx="6" ry="3" fill="white" transform="rotate(45 45 45)"/>
+    
+    <!-- Grain/seed head -->
+    <ellipse cx="30" cy="25" rx="6" ry="8" fill="white"/>
+    
+    <!-- Small dots for seeds -->
+    <circle cx="27" cy="22" r="1" fill="#2E7D32"/>
+    <circle cx="30" cy="24" r="1" fill="#2E7D32"/>
+    <circle cx="33" cy="26" r="1" fill="#2E7D32"/>
+    <circle cx="28" cy="28" r="1" fill="#2E7D32"/>
+    <circle cx="32" cy="30" r="1" fill="#2E7D32"/>
+  </g>
+</svg>
